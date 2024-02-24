@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/t3.nda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t3.nda" height="30" width="40" /></a>
+<a href="https://t.me/llxliilx" target="blank"><img align="center" src="[https://i.ibb.co/JQxDZWH/telegram.png](https://t.me/llxliilx)" alt="llxliilx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
