@@ -1,1 +1,1 @@
-worker: bash 3laweX
+worker: bash 3lawe-chan

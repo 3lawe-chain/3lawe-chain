@@ -1,7 +1,7 @@
 FROM jepthoniq/jepthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/3laweX/SaherAr.git /root/lady
+RUN git clone https://github.com/3lawe-chan/3lawe-comand.git /root/lady
 #working directory 
 WORKDIR /root/lady
 
